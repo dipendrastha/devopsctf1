@@ -1,0 +1,14 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "devopsctf1",
+  "compatibility_date": "2026-04-17",
+  "observability": {
+    "enabled": true
+  },
+  "assets": {
+    "directory": "comments"
+  },
+  "compatibility_flags": [
+    "nodejs_compat"
+  ]
+}
